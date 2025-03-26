@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shurveer Singh Chhaba<br><br>🤖 AI & Machine Learning Enthusiast | Data Science Explorer<br><br>📊 Passionate about Data Analysis, Big Data, and Predictive Modeling<br><br>🧠 Exploring Deep Learning, NLP, and AI-powered applications<br><br>💻 Also skilled in Full-Stack Web Development (MERN Stack) for AI integration<br><br>🤝 Open to collaborating on AI, ML, and Data Science projects<br><br>📫 Reach me at shurveersinghchhaba12@gmail.com
+👋 Hi, I'm Shurveer Singh Chhaba<br><br>🤖 AI & Machine Learning Enthusiast | Data Science Explorer<br><br>📊 Passionate about Data Analysis, Big Data, and Predictive Modeling<br><br>🧠 Exploring Deep Learning, NLP, and AI-powered applications<br><br>💻 Also skilled in Full-Stack Web Development for AI integration<br><br>🤝 Open to collaborating on AI, ML, and Data Science projects<br><br>📫 Reach me at shurveersinghchhaba12@gmail.com
 
 
 ## 🌐 Socials:
